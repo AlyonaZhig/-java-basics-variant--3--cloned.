@@ -1,2 +1,2 @@
-# -java-basics-variant--2-
-Лабораторная работа 2
+# -java-basics-variant--3-
+
